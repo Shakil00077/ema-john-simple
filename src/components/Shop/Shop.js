@@ -37,9 +37,6 @@ const Shop = () => {
                 <h3 className='cart-order'>Order Summary</h3>
                 <div className='cart-info'>
                 <h5>Selected Items: {cart.length}</h5>
-                <p>Total Price:</p>
-                <p>Total Shipping Charge:</p>
-                <p>Tax:</p>
                 </div>
             </div>
         </div>
