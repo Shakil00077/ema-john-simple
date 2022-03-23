@@ -11,12 +11,5 @@
     margin-right: 80px;
 }
 .cart-container{
-    background: rgba(255, 153, 0, 0.3);
-}
-.cart-info{
-    margin-left: 25px;
-    color: #2A414F;
-}
-.cart-order{
-    text-align: center;
+    background-color: rgb(245, 158, 127);
 }
